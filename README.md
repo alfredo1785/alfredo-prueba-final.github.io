@@ -3,6 +3,6 @@ Desafío final del modulo de Introducción al Desarrollo Web del Bootcamp Full S
 
 deploy:https://alfredo1785.github.io/alfredo-prueba-final.github.io/
 
-fork:
+fork: https://github.com/alfredo1785/alfredo-prueba-final.github.io/forks
 
 fork:
